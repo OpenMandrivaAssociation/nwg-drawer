@@ -1,3 +1,4 @@
+%undefine _debugsource_packages
 Name:           nwg-drawer
 Version:        0.5.2
 Release:        1
