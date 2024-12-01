@@ -1,12 +1,12 @@
 %undefine _debugsource_packages
 Name:           nwg-drawer
-Version:        0.5.2
+Version:        0.6.0
 Release:        1
 Summary:        Application drawer for wlroots-based Wayland compositors
 License:        MIT
 URL:            https://github.com/nwg-piotr/nwg-drawer
 Source:         https://github.com/nwg-piotr/nwg-drawer/archive/v%{version}/%{name}-%{version}.tar.gz
-Source1:        godeps-for-nwg-drawer-0.5.2.tar.xz
+Source1:        godeps-for-nwg-drawer-%{version}.tar.xz
 BuildRequires:  golang
 BuildRequires:  compiler(go-compiler)
 BuildRequires:  make
