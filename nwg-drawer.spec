@@ -15,6 +15,7 @@ BuildRequires:  pkgconfig(gdk-3.0)
 BuildRequires:  pkgconfig(gio-2.0)
 BuildRequires:  pkgconfig(glib-2.0)
 BuildRequires:  pkgconfig(gtk-layer-shell-0)
+BuildRequires:  pkgconfig(gobject-introspection-1.0)
 
 %description
 Application drawer for wlroots-based Wayland compositors.
