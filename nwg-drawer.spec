@@ -1,6 +1,6 @@
 %undefine _debugsource_packages
 Name:           nwg-drawer
-Version:        0.6.1
+Version:        0.6.2
 Release:        1
 Summary:        Application drawer for wlroots-based Wayland compositors
 License:        MIT
